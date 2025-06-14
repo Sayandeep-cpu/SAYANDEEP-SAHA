@@ -1,5 +1,3 @@
-# SAYANDEEP-SAHA
-
 # 💫 About Me:
 - 👋 Hi, I'm Sayandeep Saha<br>- 💻 Aspiring Full-Stack Web Developer<br>- 🧠 Currently preparing for GATE CS 2026<br>- 🌐 Skilled in:<br>  - Java, HTML5, CSS3, Bootstrap<br>  - JavaScript, React, Angular<br>  - Node.js, Express.js<br>  - MongoDB, MySQL<br>- ☁️ Familiar with cloud platforms:<br>  - AWS, Netlify, Vercel<br>- 🚀 Focused on building real-world, scalable web applications<br>- 🔍 Actively looking for **job** and **internship opportunities** in web development<br>
 
@@ -10,6 +8,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=Sayandeep-cpu&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Sayandeep-cpu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayandeep-cpu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Sayandeep-cpu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Sayandeep-cpu&icon=0&color=0)](https://visitcount.itsvg.in)
